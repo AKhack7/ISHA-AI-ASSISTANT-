@@ -1,1 +1,1 @@
-pyo
+ASSISTANT_NAME = "ISHA"
