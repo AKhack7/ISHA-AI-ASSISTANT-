@@ -1,1 +1,1 @@
-![logo] (giphy_gif (418×234).gif)
+[logo] ('giphy_gif (418×234).gif')
